@@ -1,0 +1,25 @@
+table {
+    width:100%;
+    height:98vh;
+    text-align:center
+}
+
+td {
+    width:5.5%;
+    height:10%;
+}
+
+h2{margin: 0%;}
+.naometal {background-color: rgb(179, 215, 106);}
+.atomico{ text-align: left;}
+.Gasesnobres { background-color: rgb(118, 180, 238);}
+.Metaisalcalinos {background-color: #F5C95E;}
+.Metaisalcalinoterrosos {background-color: #EFE55B ;}
+.Metaisdetransicao {background-color: #F2B0B0 ;}
+.Semimetais {background-color:#66C4BC ;}
+.Halogenios {background-color:#A7DFF3 ;}
+.Outrosmetais {background-color: #A2C6D2;}
+.Lantanideos {background-color:#97D7E1 ;}
+.Actinidios {background:#E2BDD8 ;}
+.Naometais {background-color: #B3D76A;}
+body{background-color: #ff00bf46;}
